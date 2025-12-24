@@ -1,0 +1,5 @@
+first ques is:
+  1.two best non overlapping events (a very good question for recursion_dp and use of binary seach) added to list recur_dp(memo)
+2.done potd was easy (greedy) not mush to do
+3.done sliding window maximum learnt about monotonic queue(deque)
+4.done 2 ques of weekly contest 481.
